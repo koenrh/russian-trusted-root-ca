@@ -74,3 +74,23 @@ Serial Number	Organization	Country	Not Before	Not After	Common Name	Subject Alte
 1119346	JS Company BIFIT	RU	2022-04-04T17:16:16Z	2023-04-04T17:16:16Z	demo.bifit.ru	demo.bifit.ru																								
 1119401	ГУ НИАЦ	RU	2022-04-05T11:54:16Z	2023-04-05T11:54:16Z	*.niac.ru	niac.ru	*.niac.ru																							
 1119424	VTB Bank (PJSC)	RU	2022-04-06T10:23:46Z	2023-04-06T10:23:46Z	ift-chat-sharing.vtb.ru	ift-chat-sharing.vtb.ru	ift-chat-turn.vtb.ru	psi-chat-turn.vtb.ru	hf-chat-turn.vtb.ru	psi-chat-sharing.vtb.ru	hf-chat-sharing.vtb.ru	www.ift-chat-sharing.vtb.ru	www.ift-chat-turn.vtb.ru	www.hf-chat-turn.vtb.ru	www.psi-chat-turn.vtb.ru	www.psi-chat-sharing.vtb.ru	www.hf-chat-sharing.vtb.ru													
+1118365	VTB Bank (PJSC)	RU	2022-03-09T11:25:38Z	2023-03-09T11:25:38Z	*.vtb.ru	*.vtb.ru,vtb.ru
+1118504	Severny Narodny Bank AO	RU	2022-03-16T10:34:15Z	2023-03-16T10:34:15Z	dbo.sevnb.ru	dbo.sevnb.ru,online.sevnb.ru,lk.sevnb.ru
+1118604	PJSC "SOVCOMBANK"	RU	2022-03-17T14:55:15Z	2023-03-17T14:55:15Z	*.doktor.kr	*.doktor.kr,doktor.kr
+1118711	MKU iAC	RU	2022-03-21T15:09:13Z	2023-03-21T15:09:13Z	pda-kotovsk.ru	pda-kotovsk.ru,www.pda-kotovsk.ru
+1118719	OOO ITC Molnet	RU	2022-03-21T15:21:42Z	2023-03-21T15:21:42Z	mlnt.ru	mlnt.ru,www.mlnt.ru,n.mlnt.ru,n1.mlnt.ru
+1118748	Администрация города Собинки	RU	2022-03-22T09:09:39Z	2023-03-22T09:09:39Z	sobinka-city.ru	sobinka-city.ru
+1118975	OOO Solarlab	RU	2022-03-25T09:25:27Z	2023-03-25T09:25:27Z	*.solarlab.ru	solarlab.ru,www.solarlab.ru,*.solarlab.ru
+1119018	The Ministry of Digital Development and Communications	RU	2022-03-25T16:49:02Z	2023-03-25T16:49:02Z	test.ct-log.ru	test.ct-log.ru
+1119213	OOO IK Orlinaya reka	RU	2022-03-30T15:05:03Z	2023-03-30T15:05:03Z	oreka.ru	oreka.ru,www.oreka.ru
+1119291	State budgetary educational institution secondary school No. 490	RU	2022-04-04T09:09:04Z	2023-04-04T09:09:04Z	*.sc490-spb.ru	sc490-spb.ru,www.sc490-spb.ru,*.sc490-spb.ru
+1119328	Corporation “Aviashelf Aviation Company”	Ru	2022-04-04T11:29:36Z	2023-04-04T11:29:36Z	*.aviashelf.ru	*.aviashelf.ru,aviashelf.ru
+1119330	Bank Severny Morskoy Put JSC	RU	2022-04-04T16:32:07Z	2023-04-04T16:32:07Z	cert-test.smpbank.ru	cert-test.smpbank.ru
+1119331	Администрация города Мичуринска Тамбовской области	RU	2022-04-04T16:33:28Z	2023-04-04T16:33:28Z	*.g45.tambov.gov.ru	g45.tambov.gov.ru,www.g45.tambov.gov.ru,*.g45.tambov.gov.ru
+1119334	AO RK Centr-Invest	RU	2022-04-04T16:36:26Z	2023-04-04T16:36:26Z	*.centr-invest.ru	centr-invest.ru,www.centr-invest.ru,*.centr-invest.ru
+1119359	JSC Erkafarm	RU	2022-04-05T07:20:30Z	2023-04-05T07:20:30Z	*.erkapharm.su	*.erkapharm.su,erkapharm.su
+1119362	FBI Rehabilitation Center Tinaki	RU	2022-04-05T07:27:10Z	2023-04-05T07:27:10Z	*.tinaki.ru	tinaki.ru,*.tinaki.ru
+1119372	GKOU SPETsIALNAYa OBShchEOBRAZOVATELNAYa ShKOLA-INTERNAT 17	RU	2022-04-05T11:15:24Z	2023-04-05T11:15:24Z	*.svet17.ru	svet17.ru,www.svet17.ru,*.svet17.ru
+1119425	VTB Bank (PJSC)	RU	2022-04-06T10:23:51Z	2023-04-06T10:23:51Z	test-mobile2.broker.vtb.ru	test-mobile2.broker.vtb.ru,www.test-mobile2.broker.vtb.ru
+1119426	VTB Bank (PJSC)	RU	2022-04-06T10:23:55Z	2023-04-06T10:23:55Z	mobile2.broker.vtb.ru	mobile2.broker.vtb.ru,www.mobile2.broker.vtb.ru
+1119430	ЖСК КОЛХИДА	RU	2022-04-06T10:28:22Z	2023-04-06T10:28:22Z	data.22-1.ru	data.22-1.ru
