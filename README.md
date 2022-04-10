@@ -2,7 +2,7 @@
 
 Raw files related to the newly introduced Russian national certificate authority.
 
-Read my blog post: [Russia's certificate authority for sanctioned organizations]()
+Read my blog post: [Russia's certificate authority for sanctioned organizations](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
 
 ## Certificates
 
