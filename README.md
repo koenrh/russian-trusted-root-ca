@@ -8,7 +8,7 @@ Read my blog post: [Russia's certificate authority for sanctioned organizations]
 
 * [`root-ca_rsa-2022.pem`](root-ca_rsa-2022.pem) - Russian Trusted Root CA certificate
 * [`sub-ca_rsa-2022.pem`](sub-ca_rsa-2022.pem) - Russian Trusted Sub CA certificate
-* [`certificates.tsv`](cerrtificates.tsv) - All issued and identified leaf certificates
+* [`certificates.tsv`](certificates.tsv) - All issued and identified leaf certificates
 
 ## Yandex
 
