@@ -1,109 +1,126 @@
-Serial Number	Organization	Country	Not Before	Not After	Common Name	Subject Alternative Name																								
-1118209	home1	RU	2022-03-01T23:19:46Z	2023-04-05T23:19:46Z	zabbix.ythm.ru	zabbix.ythm.ru																								
-1118212	VTB Bank (PJSC)	RU	2022-03-04T14:59:21Z	2023-03-04T14:59:21Z	online-alpha.vtb.ru	online-alpha.vtb.ru																								
-1118213	ythm	RU	2022-03-04T22:29:21Z	2023-03-04T22:29:21Z	ythm.ru	*.ythm.ru																								
-1118216	Sberbank of Russia PJSC	RU	2022-03-04T23:02:48Z	2023-03-04T23:02:48Z	sbbol-ift-psi	iftmobile.testsbi.sberbank.ru	bf2.testsbi.sberbank.ru	ift2.testsbi.sberbank.ru	iftfintech.testsbi.sberbank.ru	ift2upg.testsbi.sberbank.ru	ift2demo.testsbi.sberbank.ru	sbi.sbbolmobiletest.sberbank.ru	psi.sbbolmobiletest.sberbank.ru	bfedupir.testsbi.sberbank.ru	edupir.testsbi.sberbank.ru	edupirsms.testsbi.sberbank.ru	edupirupg2.testsbi.sberbank.ru	edupirfintech.sberbank.ru	psisbbauto.sberbank.ru											
-1118217	The Central Bank of the Russian Federation	RU	2022-03-05T09:47:09Z	2023-03-05T09:47:09Z	*.cbr.ru	cbr.ru	*.cbr.ru																							
-1118218	The Central Bank of the Russian Federation	RU	2022-03-05T09:47:39Z	2023-03-05T09:47:39Z	xn----7sbbdrzkdqce2az7c0eo.xn--p1ai	xn----7sbbdrzkdqce2az7c0eo.xn--p1ai																								
-1118302	BRATSK.CITY LIMITED LIABILITY COMPANY	RU	2022-03-09T10:29:55Z	2023-03-09T10:29:55Z	*.BRATSK.CITY	bratsk.city	*.bratsk.city																							
-1118321	VTB Bank (PJSC)	RU	2022-03-09T11:25:02Z	2023-03-09T11:25:02Z	bo-gate-api.vtb.ru	bo-gate-api.vtb.ru	www.bo-gate-api.vtb.ru																							
-1118322	VTB Bank (PJSC)	RU	2022-03-09T11:25:03Z	2023-03-09T11:25:03Z	bo.vtb.ru	bo.vtb.ru	bo.vtb24.ru	bco.vtb24.ru																						
-1118339	VTB Bank (PJSC)	RU	2022-03-09T11:25:16Z	2023-03-09T11:25:16Z	komission.vtb.ru																									
-1118348	VTB Bank (PJSC)	RU	2022-03-09T11:25:24Z	2023-03-09T11:25:24Z	mobi1.vtb24.ru	mobi1.vtb24.ru	mobi2.vtb24.ru	testmi1.vtb24.ru	testmi2.vtb24.ru	testmi3.vtb24.ru	mi-core-spz.vtb24.ru	mi-sentry-spz.vtb24.ru	mi-core-bbo.vtb24.ru	mi-sentry-bbo.vtb24.ru	ksm-sentry.vtb24.ru															
-1118365	VTB Bank (PJSC)	RU	2022-03-09T11:25:38Z	2023-03-09T11:25:38Z	*.vtb.ru	*.vtb.ru,vtb.ru																								
-1118370	VTB Bank (PJSC)	RU	2022-03-09T11:25:45Z	2023-03-09T11:25:45Z	webquikdemo.vtb.ru																									
-1118375	Sberbank of Russia	RU	2022-03-11T09:52:28Z	2023-03-11T09:52:28Z	acs25.sbrf.ru	acs25.sbrf.ru																								
-1118400	Sberbank of Russia	RU	2022-03-11T18:59:45Z	2023-03-11T18:59:45Z	ufscs.psi.sberbank.ru																									
-1118406	Sberbank	RU	2022-03-11T18:59:51Z	2023-03-11T18:59:51Z	dev4.webquik-test.sberbank.ru																									
-1118417	Sberbank	RU	2022-03-11T19:00:02Z	2023-03-11T19:00:02Z	web-si20-uat.mobile-sbe-dev.sbrf.ru	auth-si20-uat.mobile-sbe-dev.sbrf.ru	web-si20-uat.mobile-sbe-dev.sbrf.ru																							
-1118426	Sberbank of Russia PJSC	RU	2022-03-11T19:07:42Z	2023-03-11T19:07:42Z	sberbank-ru.os-psi.sberbank.ru	sberbank-ru.os-psi.sberbank.ru	www.sberbank-ru.os-psi.sberbank.ru	sberbank-com.os-psi.sberbank.ru	www.sberbank-com.os-psi.sberbank.ru	sberbank1-ru.os-psi.sberbank.ru	www.sberbank1-ru.os-psi.sberbank.ru	adm.sberbank-ru.os-psi.sberbank.ru	psi.promo.sber.ru	psi.sberprime.sber.ru																
-1118447	FORA-BANK Joint-Stock Commercial Bank	RU	2022-03-15T14:10:12Z	2023-03-15T14:10:12Z	*.forabank.ru	*.forabank.ru	forabank.ru																							
-1118449	"АО ""ИнфоТеКС Интернет Траст"""	RU	2022-03-15T14:20:41Z	2023-03-15T14:20:41Z	iitrust.ru	*.iitrust.ru	*.iitrust.lk	*.iitrust.link	*.iitrust.online	*.iitrust.info	*.iitrust.site	*.idpoint.ru																		
-1118463	Upravlenie Rospotrebnadzora po Orenburgskoi oblasti	RU	2022-03-15T14:50:29Z	2023-03-15T14:50:29Z	56.rospotrebnadzor.ru																									
-1118481	OOO iHead	RU	2022-03-15T15:28:31Z	2023-03-15T15:28:31Z	ihead.ru	*.ihead.ru	h43.ru	*.h43.ru																						
-1118492	STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (JSC)	RU	2022-03-15T17:40:14Z	2023-03-15T17:40:14Z	eximbank.ru																									
-1118493	Joint Stock Company Commercial bank Sokolovsky	RU	2022-03-15T17:44:50Z	2023-03-15T17:44:50Z	sbnk.ru																									
-1118501	`JSC RUSSIAN EXPORT CENTER`	RU	2022-03-15T18:00:57Z	2023-03-15T18:00:57Z	www.exportcenter.ru	exportcenter.ru	*.exportcenter.ru	*.t.exportcenter.ru	*.d.exportcenter.ru																					
-1118504	Severny Narodny Bank AO	RU	2022-03-16T10:34:15Z	2023-03-16T10:34:15Z	dbo.sevnb.ru	dbo.sevnb.ru,online.sevnb.ru,lk.sevnb.ru																								
-1118515	SWT Media LLC	RU	2022-03-16T12:30:50Z	2023-03-16T12:30:50Z	swtmedia.ru																									
-1118589	LLC Device	RU	2022-03-17T14:20:33Z	2023-03-17T14:20:33Z	rcg.agency	rcg.agency	autodiscover.room485.com	room485.com	autodiscover.red-people.com	red-people.com	autodiscover.randi.ru	randi.ru	app.rcg.agency	autodiscover.rcg.agency	demo.rcg.agency	edge-03.rcg.agency	exch.rcg.agency	www.rcg.agency	ks.moscow											
-1118594	The Ministry of Labour and Social Protection	RU	2022-03-17T14:28:32Z	2023-03-17T14:28:32Z	*.rosmintrud.ru	*.rosmintrud.ru	rosmintrud.ru																							
-1118598	Rosselkhozbank, AO	RU	2022-03-17T14:35:04Z	2023-03-17T14:35:04Z	*.rshb.ru	*.rshb.ru	rshb.ru																							
-1118604	"PJSC ""SOVCOMBANK"""	RU	2022-03-17T14:55:15Z	2023-03-17T14:55:15Z	*.doktor.kr	*.doktor.kr,doktor.kr																								
-1118619	Sberbank of Russia PJSC	RU	2022-03-18T09:02:55Z	2023-03-18T09:02:55Z	*.testsbi.sberbank.ru	*.testsbi.sberbank.ru	testsbi.sberbank.ru	*.sbbolmobiletest.sberbank.ru	sbbolmobiletest.sberbank.ru	edupirfintech.sberbank.ru	psisbbauto.sberbank.ru																			
-1118638	SBRF	RU	2022-03-18T09:03:11Z	2023-03-18T09:03:11Z	geo-t.geoapi.sberbank.ru	geo-t.geoapi.sberbank.ru	geo-t.online.sberbank.ru																							
-1118645	JSC `Russian Agency for Export Credit and Investment Insurance`	RU	2022-03-18T09:07:49Z	2023-03-18T09:07:49Z	exiar.ru	exiar.ru	*.exiar.ru																							
-1118664	ООО Единый расчетный центр	RU	2022-03-18T09:56:17Z	2023-03-18T09:56:17Z	*.sistemagorod.ru	*.sistemagorod.ru	sistemagorod.ru																							
-1118666	Tuvan State University	RU	2022-03-18T09:58:49Z	2023-03-18T09:58:49Z	tuvsu.ru																									
-1118670	PJSC ROSBANK	RU	2022-03-18T10:06:34Z	2023-03-18T10:06:34Z	*.rosbank.ru	*.rosbank.ru	rosbank.ru																							
-1118671	"Budgetary institution of the Khanty-Mansiysk Autonomous Okrug - Ugra ""Nizhnevartovskogo dermatovenereological dispensary"""	 RU	2022-03-18T10:07:58Z	2023-03-18T10:07:58Z	 *.nvkvd.ru																									
-1118709	STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (JSC)	RU	2022-03-21T15:06:39Z	2023-03-21T15:06:39Z	eximbank.ru	eximbank.ru	*.eximbank.ru																							
-1118711	MKU iAC	RU	2022-03-21T15:09:13Z	2023-03-21T15:09:13Z	pda-kotovsk.ru	pda-kotovsk.ru,www.pda-kotovsk.ru																								
-1118713	Федеральное государственное бюджетное образовательное учреждение высшего образования «Сыктывкарский государственный университет имени Питирима Сорокина»	RU	2022-03-21T15:11:48Z	2023-03-21T15:11:48Z	*.syktsu.ru	*.syktsu.ru	syktsu.ru																							
-1118719	OOO ITC Molnet	RU	2022-03-21T15:21:42Z	2023-03-21T15:21:42Z	mlnt.ru	mlnt.ru,www.mlnt.ru,n.mlnt.ru,n1.mlnt.ru																								
-1118725	LLC ZagorodTelecom	RU	2022-03-21T15:31:37Z	2023-03-21T15:31:37Z	zagorodtelecom.ru	zagorodtelecom.ru	mail.zagorodtelecom.ru	cam.zagorodtelecom.ru	lk.zagorodtelecom.ru	zabbix.zagorodtelecom.ru	userside.zagorodtelecom.ru																			
-1118729	Gazprombank (Joint Stock Company)	RU	2022-03-21T15:39:22Z	2023-03-21T15:39:22Z	quiktest.gazprombank.ru	quiktest.gazprombank.ru	www.quiktest.gazprombank.ru																							
-1118746	Technical Center Internet Limited Liability Company	RU	2022-03-22T09:06:23Z	2023-03-22T09:06:23Z	*.tcinet.ru	tcinet.ru	*.tcinet.ru																							
-1118748	Администрация города Собинки	RU	2022-03-22T09:09:39Z	2023-03-22T09:09:39Z	sobinka-city.ru	sobinka-city.ru																								
-1118766	Joint Stock Commercial Bank Transstroibank JSC	RU	2022-03-23T12:10:07Z	2023-03-23T12:10:07Z	*.transstroybank.ru	*.transstroybank.ru	transstroybank.ru																							
-1118794	PJSC Sberbank	RU	2022-03-23T12:31:10Z	2023-03-23T12:31:10Z	uat.sbcorp.sberbank.ru	uat.sbcorp.sberbank.ru																								
-1118817	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T12:31:27Z	2023-03-23T12:31:27Z	messenger-t.sberbank.ru	messenger-t.sberbank.ru																								
-1118872	Credit Europe Bank Russia Ltd	RU	2022-03-23T15:44:29Z	2023-03-23T15:44:29Z	*.crediteurope.ru	crediteurope.ru	*.crediteurope.ru	app.knomary.crediteurope.ru																						
-1118889	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:21Z	2023-03-23T15:59:21Z	ddp-stg.sberbank.ru	ddp-stg.sberbank.ru																								
-1118899	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:28Z	2023-03-23T15:59:28Z	*.webquik-test.sberbank.ru	webquik-test.sberbank.ru	*.webquik-test.sberbank.ru																							
-1118903	PJSC Sberbank	RU	2022-03-23T15:59:30Z	2023-03-23T15:59:30Z	outlook.sberbank.ru	outlook.sberbank.ru	post.sberbank.ru	mail.sberbank.ru	autodiscover.sberbank.ru	lyncweb.sberbank.ru	owapp.sberbank.ru	ol.sberbank.ru	webcon.sberbank.ru	meet.sberbank.ru	dialin.sberbank.ru	lyncdiscover.sberbank.ru	lync.sberbank.ru	autodiscover.sber.ru	spost.sberbank.ru	oos.sberbank.ru	ews.sberbank.ru	eas.sberbank.ru								
-1118909	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:35Z	2023-03-23T15:59:35Z	sberkids-t.sberbank.ru	sberkids-t.sberbank.ru																								
-1118912	Bank Severny Morskoy Put JSC	RU	2022-03-24T08:49:43Z	2023-03-24T08:49:43Z	demobk.smpbank.ru	demobk.smpbank.ru																								
-1118914	Joint Stock Company Solid Bank	RU	2022-03-24T10:11:00Z	2023-03-24T10:11:00Z	*.solidbank.ru	ib.solidbank.ru	ibr.solidbank.ru	ibtest.solidbank.ru	ibrtest.solidbank.ru																					
-1118927	JSCB NRBank (JSC)	RU	2022-03-24T10:40:20Z	2023-03-24T10:40:20Z	online.nrb.ru	online.nrb.ru																								
-1118935	Minstroy Rossii	RU	2022-03-24T10:58:36Z	2023-03-24T10:58:36Z	*.minstroyrf.ru	minstroyrf.ru	www.minstroyrf.ru	mail.minstroyrf.ru	*.minstroyrf.ru																					
-1118967	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-25T09:21:27Z	2023-03-25T09:21:27Z	cbro-t.sberbank.ru	cbro-t.sberbank.ru																								
-1118975	OOO Solarlab	RU	2022-03-25T09:25:27Z	2023-03-25T09:25:27Z	*.solarlab.ru	solarlab.ru,www.solarlab.ru,*.solarlab.ru																								
-1119018	The Ministry of Digital Development and Communications	RU	2022-03-25T16:49:02Z	2023-03-25T16:49:02Z	test.ct-log.ru	test.ct-log.ru																								
-1119023	OOO Gazprom mezhregiongaz Ufa	RU	2022-03-25T17:03:29Z	2023-03-25T17:03:29Z	www.bashgaz.ru	www.bashgaz.ru	bashgaz.ru																							
-1119037	Ministry of Finance of Kuzbass	RU	2022-03-25T18:04:46Z	2023-03-25T18:04:46Z	*.ofukem.ru	*.ofukem.ru	ofukem.ru																							
-1119078	MONT LLC	RU	2022-03-28T09:31:56Z	2023-03-28T09:31:56Z	*.mont.ru	mont.ru	*.mont.ru																							
-1119093	Kuznetsky Bank Public JSC	RU	2022-03-28T11:35:25Z	2023-03-28T11:35:25Z	retail5.kuzbank.ru	retail5.kuzbank.ru																								
-1119101	ООО Курган-Телеком	RU	2022-03-28T12:07:06Z	2023-03-28T12:07:06Z	*.kurgan-telecom.net	kurgan-telecom.net	www.kurgan-telecom.net	*.kurgan-telecom.net																						
-1119107	The Ministry of Health of the Russian Federation	RU	2022-03-28T13:35:31Z	2023-03-28T13:35:31Z	*.egisz.rosminzdrav.ru	egisz.rosminzdrav.ru	www.egisz.rosminzdrav.ru	*.egisz.rosminzdrav.ru																						
-1119109	RDC PARITET Joint-Stock Company	RU	2022-03-28T13:39:25Z	2023-03-28T13:39:25Z	*.paritet.ru	*.paritet.ru	paritet.ru																							
-1119110	"OOO ""Gazprom gazonefteprodukt prodazhi"""	RU	2022-03-28T13:40:49Z	2023-03-28T13:40:49Z	ggnpsales.ru	ggnpsales.ru	www.ggnpsales.ru	mail.ggnpsales.ru	cgp.ggnpsales.ru	r7.ggnpsales.ru	mail.ggnpsales.ru	xmpp.ggnpsales.ru	tessa.ggnpsales.ru	www.ggnp-sales.ru	ggnp-sales.ru	mail.ggnp-sales.ru														
-1119125	Rospotrebnadzor Kirov region	RU	2022-03-29T10:17:22Z	2023-03-29T10:17:22Z	43.rospotrebnadzor.ru	www.43.rospotrebnadzor.ru	rpnkirov.ru	www.rpnkirov.ru																						
-1119161	ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ А-СОФТ	RU	2022-03-30T13:31:22Z	2023-03-30T13:31:22Z	asoft.su	mx.asoft.su	www.asoft.su	mail.asoft.su	disk.asoft.su	1c.asoft.su	sync.asoft.su	ftp.asoft.su																		
-1119180	FBI ROSTEST-MOSCOW	RU	2022-03-30T14:08:01Z	2023-03-30T14:08:01Z	*.metrolonline.ru	metrolonline.ru,www.metrolonline.ru,*.metrolonline.ru																								
-1119204	Kemerovo State University	RU	2022-03-30T14:45:06Z	2023-03-30T14:45:06Z	*.kemsu.ru	kemsu.ru	www.kemsu.ru	*.kemsu.ru																						
-1119210	Scientific and technical centre Sonar-Plus LTD	RU	2022-03-30T14:53:36Z	2023-03-30T14:53:36Z	sonarplus.ru	krdpost.sonarplus.ru	klnpost.sonarplus.ru	tvrpost.sonarplus.ru	adgpost.sonarplus.ru	vegapost.sonarplus.ru																				
-1119212	BANK ORANGE LLC	RU	2022-03-30T14:57:25Z	2023-03-30T14:57:25Z	*.bankorange.ru	*.bankorange.ru	bankorange.ru																							
-1119213	OOO IK Orlinaya reka	RU	2022-03-30T15:05:03Z	2023-03-30T15:05:03Z	oreka.ru	oreka.ru,www.oreka.ru																								
-1119216	AO CHSK	RU	2022-03-30T15:09:19Z	2023-03-30T15:09:19Z	chsk.ru	www.chsk.ru	chsk.ru																							
-1119230	SPb GKU GMC	RU	2022-03-31T10:57:35Z	2023-03-31T10:57:35Z	spb112.ru	spb112.ru	*.spb112.ru	video.spb112.ru	mail.spb112.ru	mail2.spb112.ru	jitsi.spb112.ru																			
-1119234	Sberbank of Russia PJSC	RU	2022-03-31T11:02:09Z	2023-03-31T11:02:09Z	*.emm.sberbank.ru	*.emm.sberbank.ru	emm.sberbank.ru	idm.emm.sberbank.ru	access-mac.emm.sberbank.ru	access.emm.sberbank.ru	cab-vsp-awim001.sigma.sbrf.ru	cab-vsp-awim002.sigma.sbrf.ru	cab-vsp-awim003.sigma.sbrf.ru	cab-vsp-awim004.sigma.sbrf.ru	cab-vsp-awim005.sigma.sbrf.ru	cab-vsp-awim006.sigma.sbrf.ru	cab-vsp-awim007.sigma.sbrf.ru	cab-vsp-woaap01.sigma.sbrf.ru	cab-vsp-woaap02.sigma.sbrf.ru	cab-vsp-woaap03.sigma.sbrf.ru	cab-vsp-woaap04.sigma.sbrf.ru	cab-vsp-woaap05.sigma.sbrf.ru	cab-vsp-woaap06.sigma.sbrf.ru	cab-vsp-woaap07.sigma.sbrf.ru	cab-vsp-woaap08.sigma.sbrf.ru	cab-vsp-woaap09.sigma.sbrf.ru	cab-vsp-woaap10.sigma.sbrf.ru	cab-vsp-woaap31.sigma.sbrf.ru	cab-vsp-woaap32.sigma.sbrf.ru	cab-vsp-woaap33.sigma.sbrf.ru
-1119260	VTB Bank (PJSC)	RU	2022-03-31T11:55:27Z	2023-03-31T11:55:27Z	new-lk-developer.vtb.ru	new-lk-developer.vtb.ru,www.new-lk-developer.vtb.ru																								
-1119280	Public Joint-Stock Company Sberbank of Russia	RU	2022-04-01T09:43:08Z	2023-04-01T09:43:08Z	*.encashment.sberbank.ru	ift.web.encashment.sberbank.ru	ift.ios.encashment.sberbank.ru	ift.android.encashment.sberbank.ru	ift.encashment.sberbank.ru	ift.mobincash.sberbank.ru	uat.ios.encashment.sberbank.ru	uat.android.encashment.sberbank.ru	uat.web.encashment.sberbank.ru																	
-1119290	ГБУ РК ЦЗКО	RU	2022-04-01T11:04:47Z	2023-04-01T11:04:47Z	*.czko.ru	czko.ru	www.czko.ru																							
-1119291	State budgetary educational institution secondary school No. 490	RU	2022-04-04T09:09:04Z	2023-04-04T09:09:04Z	*.sc490-spb.ru	sc490-spb.ru,www.sc490-spb.ru,*.sc490-spb.ru																								
-1119293	The Ministry of digital development of Kaluga region	RU	2022-04-04T09:11:05Z	2023-04-04T09:11:05Z	expe1.admoblkaluga.ru	expe1.admoblkaluga.ru	join.admoblkaluga.ru	collab-edge.admoblkaluga.ru																						
-1119299	Акционерное общество Комиавиатранс	RU	2022-04-04T09:19:05Z	2023-04-04T09:19:05Z	*.komiaviatrans.ru	komiaviatrans.ru	www.komiaviatrans.ru	*.komiaviatrans.ru																						
-1119328	Corporation “Aviashelf Aviation Company”	Ru	2022-04-04T11:29:36Z	2023-04-04T11:29:36Z	*.aviashelf.ru	*.aviashelf.ru,aviashelf.ru																								
-1119330	Bank Severny Morskoy Put JSC	RU	2022-04-04T16:32:07Z	2023-04-04T16:32:07Z	cert-test.smpbank.ru	cert-test.smpbank.ru																								
-1119331	Администрация города Мичуринска Тамбовской области	RU	2022-04-04T16:33:28Z	2023-04-04T16:33:28Z	*.g45.tambov.gov.ru	g45.tambov.gov.ru,www.g45.tambov.gov.ru,*.g45.tambov.gov.ru																								
-1119334	AO RK Centr-Invest	RU	2022-04-04T16:36:26Z	2023-04-04T16:36:26Z	*.centr-invest.ru	centr-invest.ru,www.centr-invest.ru,*.centr-invest.ru																								
-1119346	JS Company BIFIT	RU	2022-04-04T17:16:16Z	2023-04-04T17:16:16Z	demo.bifit.ru	demo.bifit.ru																								
-1119359	JSC Erkafarm	RU	2022-04-05T07:20:30Z	2023-04-05T07:20:30Z	*.erkapharm.su	*.erkapharm.su,erkapharm.su																								
-1119362	FBI Rehabilitation Center Tinaki	RU	2022-04-05T07:27:10Z	2023-04-05T07:27:10Z	*.tinaki.ru	tinaki.ru,*.tinaki.ru																								
-1119372	GKOU SPETsIALNAYa OBShchEOBRAZOVATELNAYa ShKOLA-INTERNAT 17	RU	2022-04-05T11:15:24Z	2023-04-05T11:15:24Z	*.svet17.ru	svet17.ru,www.svet17.ru,*.svet17.ru																								
-1119401	ГУ НИАЦ	RU	2022-04-05T11:54:16Z	2023-04-05T11:54:16Z	*.niac.ru	niac.ru	*.niac.ru																							
-1119424	VTB Bank (PJSC)	RU	2022-04-06T10:23:46Z	2023-04-06T10:23:46Z	ift-chat-sharing.vtb.ru	ift-chat-sharing.vtb.ru	ift-chat-turn.vtb.ru	psi-chat-turn.vtb.ru	hf-chat-turn.vtb.ru	psi-chat-sharing.vtb.ru	hf-chat-sharing.vtb.ru	www.ift-chat-sharing.vtb.ru	www.ift-chat-turn.vtb.ru	www.hf-chat-turn.vtb.ru	www.psi-chat-turn.vtb.ru	www.psi-chat-sharing.vtb.ru	www.hf-chat-sharing.vtb.ru													
-1119425	VTB Bank (PJSC)	RU	2022-04-06T10:23:51Z	2023-04-06T10:23:51Z	test-mobile2.broker.vtb.ru	test-mobile2.broker.vtb.ru,www.test-mobile2.broker.vtb.ru																								
-1119426	VTB Bank (PJSC)	RU	2022-04-06T10:23:55Z	2023-04-06T10:23:55Z	mobile2.broker.vtb.ru	mobile2.broker.vtb.ru,www.mobile2.broker.vtb.ru																								
-1119430	ЖСК КОЛХИДА	RU	2022-04-06T10:28:22Z	2023-04-06T10:28:22Z	data.22-1.ru	data.22-1.ru																								
-1119435	JSC AVANGARD-GARANT INSURANCE GROUP	RU	2022-04-06T10:35:05Z	2023-04-06T10:35:05Z	avangard-garant.ru	 avangard-garant.ru,www.avangard-garant.ru																								
-1119490	Public Joint-Stock Company Sberbank of Russia	RU	2022-04-07T13:46:17Z	2023-04-07T13:46:17Z	psi-opros-sberbank-ru.sberbank.ru	 psi-opros-sberbank-ru.sberbank.ru																								
-1119598	Government of the Chukotka Autonomous Okrug	RU	2022-04-08T08:10:27Z	2023-04-08T08:10:27Z	chukotka-gov.ru	 chukotka-gov.ru,autodiscover.chukotka-gov.ru,mail.chukotka-gov.ru																								
-1119624	ГБУ РО ЦИОГД	RU	2022-04-11T10:28:56Z	2023-04-11T10:28:56Z	*.gisogdro.ru	gisogdro.ru,www.gisogdro.ru,*.gisogdro.ru																								
-1119640	Vzljot JSC	RU	2022-04-11T10:56:41Z	2023-04-11T10:56:41Z	*.vzljot.ru	vzljot.ru,*.vzljot.ru																								
-1119688	MAOU 'Gimnaziya N1'	RU	2022-04-12T14:26:26Z	2023-04-12T14:26:26Z	gimnazist1.ru	*.gimnazist1.ru																								
-1119692	joint stock company MOSCOVSKIY OBLASTNOI BANK	RU	2022-04-12T14:29:56Z	2023-04-12T14:29:56Z	ibank2tst.mosoblbank.ru	www.ibank2tst.mosoblbank.ru																								
-1119694	INSTITUTE OF PETROLEUM CHEMISTRY	RU	2022-04-12T14:32:10Z	2023-04-12T14:32:10Z	*.ipc.tsc.ru	moodle.ipc.tsc.ru,www.ipc.tsc.ru,oilmuseum.ipc.tsc.ru,mail.ipc.tsc.ru																								
-1119701	Ministry of Culture of the Belgorod Region	RU	2022-04-12T14:54:04Z	2023-04-12T14:54:04Z	*.belkult.ru	 belkult.ru,www.belkult.ru,*.belkult.ru																								
-1119805	ООО Сура АйБи	RU	2022-04-13T13:02:20Z	2023-04-13T13:02:20Z	*.sura-ib.ru	sura-ib.ru,www.sura-ib.ru,*.sura-ib.ru																								
+Serial Number	Organization	Country	Not Before	Not After	Common Name	Subject Alternative Name																									
+1118209	home1	RU	2022-03-01T23:19:46Z	2023-04-05T23:19:46Z	zabbix.ythm.ru	zabbix.ythm.ru																									
+1118212	VTB Bank (PJSC)	RU	2022-03-04T14:59:21Z	2023-03-04T14:59:21Z	online-alpha.vtb.ru	online-alpha.vtb.ru																									
+1118213	ythm	RU	2022-03-04T22:29:21Z	2023-03-04T22:29:21Z	ythm.ru	*.ythm.ru																									
+1118216	Sberbank of Russia PJSC	RU	2022-03-04T23:02:48Z	2023-03-04T23:02:48Z	sbbol-ift-psi	iftmobile.testsbi.sberbank.ru	bf2.testsbi.sberbank.ru	ift2.testsbi.sberbank.ru	iftfintech.testsbi.sberbank.ru	ift2upg.testsbi.sberbank.ru	ift2demo.testsbi.sberbank.ru	sbi.sbbolmobiletest.sberbank.ru	psi.sbbolmobiletest.sberbank.ru	bfedupir.testsbi.sberbank.ru	edupir.testsbi.sberbank.ru	edupirsms.testsbi.sberbank.ru	edupirupg2.testsbi.sberbank.ru	edupirfintech.sberbank.ru	psisbbauto.sberbank.ru												
+1118217	The Central Bank of the Russian Federation	RU	2022-03-05T09:47:09Z	2023-03-05T09:47:09Z	*.cbr.ru	cbr.ru	*.cbr.ru																								
+1118218	The Central Bank of the Russian Federation	RU	2022-03-05T09:47:39Z	2023-03-05T09:47:39Z	xn----7sbbdrzkdqce2az7c0eo.xn--p1ai	xn----7sbbdrzkdqce2az7c0eo.xn--p1ai																									
+1118302	BRATSK.CITY LIMITED LIABILITY COMPANY	RU	2022-03-09T10:29:55Z	2023-03-09T10:29:55Z	*.BRATSK.CITY	bratsk.city	*.bratsk.city																								
+1118321	VTB Bank (PJSC)	RU	2022-03-09T11:25:02Z	2023-03-09T11:25:02Z	bo-gate-api.vtb.ru	bo-gate-api.vtb.ru	www.bo-gate-api.vtb.ru																								
+1118322	VTB Bank (PJSC)	RU	2022-03-09T11:25:03Z	2023-03-09T11:25:03Z	bo.vtb.ru	bo.vtb.ru	bo.vtb24.ru	bco.vtb24.ru																							
+1118339	VTB Bank (PJSC)	RU	2022-03-09T11:25:16Z	2023-03-09T11:25:16Z	komission.vtb.ru																										
+1118348	VTB Bank (PJSC)	RU	2022-03-09T11:25:24Z	2023-03-09T11:25:24Z	mobi1.vtb24.ru	mobi1.vtb24.ru	mobi2.vtb24.ru	testmi1.vtb24.ru	testmi2.vtb24.ru	testmi3.vtb24.ru	mi-core-spz.vtb24.ru	mi-sentry-spz.vtb24.ru	mi-core-bbo.vtb24.ru	mi-sentry-bbo.vtb24.ru	ksm-sentry.vtb24.ru																
+1118365	VTB Bank (PJSC)	RU	2022-03-09T11:25:38Z	2023-03-09T11:25:38Z	*.vtb.ru	*.vtb.ru	vtb.ru																								
+1118370	VTB Bank (PJSC)	RU	2022-03-09T11:25:45Z	2023-03-09T11:25:45Z	webquikdemo.vtb.ru																										
+1118375	Sberbank of Russia	RU	2022-03-11T09:52:28Z	2023-03-11T09:52:28Z	acs25.sbrf.ru	acs25.sbrf.ru																									
+1118400	Sberbank of Russia	RU	2022-03-11T18:59:45Z	2023-03-11T18:59:45Z	ufscs.psi.sberbank.ru																										
+1118406	Sberbank	RU	2022-03-11T18:59:51Z	2023-03-11T18:59:51Z	dev4.webquik-test.sberbank.ru																										
+1118417	Sberbank	RU	2022-03-11T19:00:02Z	2023-03-11T19:00:02Z	web-si20-uat.mobile-sbe-dev.sbrf.ru	auth-si20-uat.mobile-sbe-dev.sbrf.ru	web-si20-uat.mobile-sbe-dev.sbrf.ru																								
+1118426	Sberbank of Russia PJSC	RU	2022-03-11T19:07:42Z	2023-03-11T19:07:42Z	sberbank-ru.os-psi.sberbank.ru	sberbank-ru.os-psi.sberbank.ru	www.sberbank-ru.os-psi.sberbank.ru	sberbank-com.os-psi.sberbank.ru	www.sberbank-com.os-psi.sberbank.ru	sberbank1-ru.os-psi.sberbank.ru	www.sberbank1-ru.os-psi.sberbank.ru	adm.sberbank-ru.os-psi.sberbank.ru	psi.promo.sber.ru	psi.sberprime.sber.ru																	
+1118447	FORA-BANK Joint-Stock Commercial Bank	RU	2022-03-15T14:10:12Z	2023-03-15T14:10:12Z	*.forabank.ru	*.forabank.ru	forabank.ru																								
+1118449	"АО ""ИнфоТеКС Интернет Траст"""	RU	2022-03-15T14:20:41Z	2023-03-15T14:20:41Z	iitrust.ru	*.iitrust.ru	*.iitrust.lk	*.iitrust.link	*.iitrust.online	*.iitrust.info	*.iitrust.site	*.idpoint.ru																			
+1118463	Upravlenie Rospotrebnadzora po Orenburgskoi oblasti	RU	2022-03-15T14:50:29Z	2023-03-15T14:50:29Z	56.rospotrebnadzor.ru																										
+1118481	OOO iHead	RU	2022-03-15T15:28:31Z	2023-03-15T15:28:31Z	ihead.ru	*.ihead.ru	h43.ru	*.h43.ru																							
+1118492	STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (JSC)	RU	2022-03-15T17:40:14Z	2023-03-15T17:40:14Z	eximbank.ru																										
+1118493	Joint Stock Company Commercial bank Sokolovsky	RU	2022-03-15T17:44:50Z	2023-03-15T17:44:50Z	sbnk.ru																										
+1118501	`JSC RUSSIAN EXPORT CENTER`	RU	2022-03-15T18:00:57Z	2023-03-15T18:00:57Z	www.exportcenter.ru	exportcenter.ru	*.exportcenter.ru	*.t.exportcenter.ru	*.d.exportcenter.ru																						
+1118504	Severny Narodny Bank AO	RU	2022-03-16T10:34:15Z	2023-03-16T10:34:15Z	dbo.sevnb.ru	dbo.sevnb.ru	online.sevnb.ru	lk.sevnb.ru																							
+1118515	SWT Media LLC	RU	2022-03-16T12:30:50Z	2023-03-16T12:30:50Z	swtmedia.ru																										
+1118532	Public Joint-Stock Company Bank Otkritie Financial Corporation	RU	2022-03-16T15:16:46Z	2023-03-16T15:16:46Z	egw.open.ru	egw.open.ru	egw01.open.ru	egw02.open.ru	egwmntr.open.ru	egwtest.open.ru																					
+1118581	PJSC EKATERINBURG NATIONAL CITY BANK	RU	2022-03-17T11:26:58Z	2023-03-17T11:26:58Z	twisfront.emb.ru	twisfront.emb.ru																									
+1118589	LLC Device	RU	2022-03-17T14:20:33Z	2023-03-17T14:20:33Z	rcg.agency	rcg.agency	autodiscover.room485.com	room485.com	autodiscover.red-people.com	red-people.com	autodiscover.randi.ru	randi.ru	app.rcg.agency	autodiscover.rcg.agency	demo.rcg.agency	edge-03.rcg.agency	exch.rcg.agency	www.rcg.agency	ks.moscow												
+1118594	The Ministry of Labour and Social Protection	RU	2022-03-17T14:28:32Z	2023-03-17T14:28:32Z	*.rosmintrud.ru	*.rosmintrud.ru	rosmintrud.ru																								
+1118598	Rosselkhozbank, AO	RU	2022-03-17T14:35:04Z	2023-03-17T14:35:04Z	*.rshb.ru	*.rshb.ru	rshb.ru																								
+1118604	"PJSC ""SOVCOMBANK"""	RU	2022-03-17T14:55:15Z	2023-03-17T14:55:15Z	*.doktor.kr	*.doktor.kr	doktor.kr																								
+1118619	Sberbank of Russia PJSC	RU	2022-03-18T09:02:55Z	2023-03-18T09:02:55Z	*.testsbi.sberbank.ru	*.testsbi.sberbank.ru	testsbi.sberbank.ru	*.sbbolmobiletest.sberbank.ru	sbbolmobiletest.sberbank.ru	edupirfintech.sberbank.ru	psisbbauto.sberbank.ru																				
+1118638	SBRF	RU	2022-03-18T09:03:11Z	2023-03-18T09:03:11Z	geo-t.geoapi.sberbank.ru	geo-t.geoapi.sberbank.ru	geo-t.online.sberbank.ru																								
+1118645	JSC `Russian Agency for Export Credit and Investment Insurance`	RU	2022-03-18T09:07:49Z	2023-03-18T09:07:49Z	exiar.ru	exiar.ru	*.exiar.ru																								
+1118664	ООО Единый расчетный центр	RU	2022-03-18T09:56:17Z	2023-03-18T09:56:17Z	*.sistemagorod.ru	*.sistemagorod.ru	sistemagorod.ru																								
+1118666	Tuvan State University	RU	2022-03-18T09:58:49Z	2023-03-18T09:58:49Z	tuvsu.ru																										
+1118670	PJSC ROSBANK	RU	2022-03-18T10:06:34Z	2023-03-18T10:06:34Z	*.rosbank.ru	*.rosbank.ru	rosbank.ru																								
+1118671	"Budgetary institution of the Khanty-Mansiysk Autonomous Okrug - Ugra ""Nizhnevartovskogo dermatovenereological dispensary"""	RU	2022-03-18T10:07:58Z	2023-03-18T10:07:58Z	*.nvkvd.ru																										
+1118709	STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (JSC)	RU	2022-03-21T15:06:39Z	2023-03-21T15:06:39Z	eximbank.ru	eximbank.ru	*.eximbank.ru																								
+1118711	MKU iAC	RU	2022-03-21T15:09:13Z	2023-03-21T15:09:13Z	pda-kotovsk.ru	pda-kotovsk.ru	www.pda-kotovsk.ru																								
+1118713	Федеральное государственное бюджетное образовательное учреждение высшего образования «Сыктывкарский государственный университет имени Питирима Сорокина»	RU	2022-03-21T15:11:48Z	2023-03-21T15:11:48Z	*.syktsu.ru	*.syktsu.ru	syktsu.ru																								
+1118719	OOO ITC Molnet	RU	2022-03-21T15:21:42Z	2023-03-21T15:21:42Z	mlnt.ru	mlnt.ru	www.mlnt.ru	n.mlnt.ru	n1.mlnt.ru																						
+1118725	LLC ZagorodTelecom	RU	2022-03-21T15:31:37Z	2023-03-21T15:31:37Z	zagorodtelecom.ru	zagorodtelecom.ru	mail.zagorodtelecom.ru	cam.zagorodtelecom.ru	lk.zagorodtelecom.ru	zabbix.zagorodtelecom.ru	userside.zagorodtelecom.ru																				
+1118729	Gazprombank (Joint Stock Company)	RU	2022-03-21T15:39:22Z	2023-03-21T15:39:22Z	quiktest.gazprombank.ru	quiktest.gazprombank.ru	www.quiktest.gazprombank.ru																								
+1118746	Technical Center Internet Limited Liability Company	RU	2022-03-22T09:06:23Z	2023-03-22T09:06:23Z	*.tcinet.ru	tcinet.ru	*.tcinet.ru																								
+1118748	Администрация города Собинки	RU	2022-03-22T09:09:39Z	2023-03-22T09:09:39Z	sobinka-city.ru	sobinka-city.ru																									
+1118766	Joint Stock Commercial Bank Transstroibank JSC	RU	2022-03-23T12:10:07Z	2023-03-23T12:10:07Z	*.transstroybank.ru	*.transstroybank.ru	transstroybank.ru																								
+1118794	PJSC Sberbank	RU	2022-03-23T12:31:10Z	2023-03-23T12:31:10Z	uat.sbcorp.sberbank.ru	uat.sbcorp.sberbank.ru																									
+1118817	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T12:31:27Z	2023-03-23T12:31:27Z	messenger-t.sberbank.ru	messenger-t.sberbank.ru																									
+1118872	Credit Europe Bank Russia Ltd	RU	2022-03-23T15:44:29Z	2023-03-23T15:44:29Z	*.crediteurope.ru	crediteurope.ru	*.crediteurope.ru	app.knomary.crediteurope.ru																							
+1118889	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:21Z	2023-03-23T15:59:21Z	ddp-stg.sberbank.ru	ddp-stg.sberbank.ru																									
+1118899	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:28Z	2023-03-23T15:59:28Z	*.webquik-test.sberbank.ru	webquik-test.sberbank.ru	*.webquik-test.sberbank.ru																								
+1118903	PJSC Sberbank	RU	2022-03-23T15:59:30Z	2023-03-23T15:59:30Z	outlook.sberbank.ru	outlook.sberbank.ru	post.sberbank.ru	mail.sberbank.ru	autodiscover.sberbank.ru	lyncweb.sberbank.ru	owapp.sberbank.ru	ol.sberbank.ru	webcon.sberbank.ru	meet.sberbank.ru	dialin.sberbank.ru	lyncdiscover.sberbank.ru	lync.sberbank.ru	autodiscover.sber.ru	spost.sberbank.ru	oos.sberbank.ru	ews.sberbank.ru	eas.sberbank.ru									
+1118907	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:33Z	2023-03-23T15:59:33Z	sberkidsift.mobile-sbe-dev.sbrf.ru	sberkidsift.mobile-sbe-dev.sbrf.ru																									
+1118909	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-23T15:59:35Z	2023-03-23T15:59:35Z	sberkids-t.sberbank.ru	sberkids-t.sberbank.ru																									
+1118912	Bank Severny Morskoy Put JSC	RU	2022-03-24T08:49:43Z	2023-03-24T08:49:43Z	demobk.smpbank.ru	demobk.smpbank.ru																									
+1118914	Joint Stock Company Solid Bank	RU	2022-03-24T10:11:00Z	2023-03-24T10:11:00Z	*.solidbank.ru	ib.solidbank.ru	ibr.solidbank.ru	ibtest.solidbank.ru	ibrtest.solidbank.ru																						
+1118927	JSCB NRBank (JSC)	RU	2022-03-24T10:40:20Z	2023-03-24T10:40:20Z	online.nrb.ru	online.nrb.ru																									
+1118935	Minstroy Rossii	RU	2022-03-24T10:58:36Z	2023-03-24T10:58:36Z	*.minstroyrf.ru	minstroyrf.ru	www.minstroyrf.ru	mail.minstroyrf.ru	*.minstroyrf.ru																						
+1118967	Public Joint-Stock Company Sberbank of Russia	RU	2022-03-25T09:21:27Z	2023-03-25T09:21:27Z	cbro-t.sberbank.ru	cbro-t.sberbank.ru																									
+1118975	OOO Solarlab	RU	2022-03-25T09:25:27Z	2023-03-25T09:25:27Z	*.solarlab.ru	solarlab.ru	www.solarlab.ru	*.solarlab.ru																							
+1119018	The Ministry of Digital Development and Communications	RU	2022-03-25T16:49:02Z	2023-03-25T16:49:02Z	test.ct-log.ru	test.ct-log.ru																									
+1119020	JSC Norilsk-Taimyr Energy Company	RU	2022-03-25T16:59:09Z	2023-03-25T16:59:09Z	oao-ntek.ru	*.oao-ntek.ru	oao-ntek.ru																								
+1119023	OOO Gazprom mezhregiongaz Ufa	RU	2022-03-25T17:03:29Z	2023-03-25T17:03:29Z	www.bashgaz.ru	www.bashgaz.ru	bashgaz.ru																								
+1119037	Ministry of Finance of Kuzbass	RU	2022-03-25T18:04:46Z	2023-03-25T18:04:46Z	*.ofukem.ru	*.ofukem.ru	ofukem.ru																								
+1119078	MONT LLC	RU	2022-03-28T09:31:56Z	2023-03-28T09:31:56Z	*.mont.ru	mont.ru	*.mont.ru																								
+1119089	BM-Bank JSC	RU	2022-03-28T11:32:26Z	2023-03-28T11:32:26Z	demodbo.vbank.ru	demodbo.vbank.ru																									
+1119093	Kuznetsky Bank Public JSC	RU	2022-03-28T11:35:25Z	2023-03-28T11:35:25Z	retail5.kuzbank.ru	retail5.kuzbank.ru																									
+1119101	ООО Курган-Телеком	RU	2022-03-28T12:07:06Z	2023-03-28T12:07:06Z	*.kurgan-telecom.net	kurgan-telecom.net	www.kurgan-telecom.net	*.kurgan-telecom.net																							
+1119107	The Ministry of Health of the Russian Federation	RU	2022-03-28T13:35:31Z	2023-03-28T13:35:31Z	*.egisz.rosminzdrav.ru	egisz.rosminzdrav.ru	www.egisz.rosminzdrav.ru	*.egisz.rosminzdrav.ru																							
+1119109	RDC PARITET Joint-Stock Company	RU	2022-03-28T13:39:25Z	2023-03-28T13:39:25Z	*.paritet.ru	*.paritet.ru	paritet.ru																								
+1119110	"OOO ""Gazprom gazonefteprodukt prodazhi"""	RU	2022-03-28T13:40:49Z	2023-03-28T13:40:49Z	ggnpsales.ru	ggnpsales.ru	www.ggnpsales.ru	mail.ggnpsales.ru	cgp.ggnpsales.ru	r7.ggnpsales.ru	mail.ggnpsales.ru	xmpp.ggnpsales.ru	tessa.ggnpsales.ru	www.ggnp-sales.ru	ggnp-sales.ru	mail.ggnp-sales.ru															
+1119125	Rospotrebnadzor Kirov region	RU	2022-03-29T10:17:22Z	2023-03-29T10:17:22Z	43.rospotrebnadzor.ru	www.43.rospotrebnadzor.ru	rpnkirov.ru	www.rpnkirov.ru																							
+1119130	Upravlenie RPN NN	RU	2022-03-29T12:39:05Z	2023-03-29T12:39:05Z	52.rospotrebnadzor.ru	www.52.rospotrebnadzor.ru	mail.52.rospotrebnadzor.ru	pop.52.rospotrebnadzor.ru	smtp.52.rospotrebnadzor.ru	52.rospotrebnadzor.ru																					
+1119160	Public Joint-Stock Company Bank Otkritie Financial Corporation	RU	2022-03-30T13:30:19Z	2023-03-30T13:30:19Z	demo-cb.open.ru	demo-cb.open.ru																									
+1119161	ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ А-СОФТ	RU	2022-03-30T13:31:22Z	2023-03-30T13:31:22Z	asoft.su	mx.asoft.su	www.asoft.su	mail.asoft.su	disk.asoft.su	1c.asoft.su	sync.asoft.su	ftp.asoft.su																			
+1119180	FBI ROSTEST-MOSCOW	RU	2022-03-30T14:08:01Z	2023-03-30T14:08:01Z	*.metrolonline.ru	metrolonline.ru	www.metrolonline.ru	*.metrolonline.ru																							
+1119204	Kemerovo State University	RU	2022-03-30T14:45:06Z	2023-03-30T14:45:06Z	*.kemsu.ru	kemsu.ru	www.kemsu.ru	*.kemsu.ru																							
+1119210	Scientific and technical centre Sonar-Plus LTD	RU	2022-03-30T14:53:36Z	2023-03-30T14:53:36Z	sonarplus.ru	krdpost.sonarplus.ru	klnpost.sonarplus.ru	tvrpost.sonarplus.ru	adgpost.sonarplus.ru	vegapost.sonarplus.ru																					
+1119212	BANK ORANGE LLC	RU	2022-03-30T14:57:25Z	2023-03-30T14:57:25Z	*.bankorange.ru	*.bankorange.ru	bankorange.ru																								
+1119213	OOO IK Orlinaya reka	RU	2022-03-30T15:05:03Z	2023-03-30T15:05:03Z	oreka.ru	oreka.ru	www.oreka.ru																								
+1119216	AO CHSK	RU	2022-03-30T15:09:19Z	2023-03-30T15:09:19Z	chsk.ru	www.chsk.ru	chsk.ru																								
+1119230	SPb GKU GMC	RU	2022-03-31T10:57:35Z	2023-03-31T10:57:35Z	spb112.ru	spb112.ru	*.spb112.ru	video.spb112.ru	mail.spb112.ru	mail2.spb112.ru	jitsi.spb112.ru																				
+1119234	Sberbank of Russia PJSC	RU	2022-03-31T11:02:09Z	2023-03-31T11:02:09Z	*.emm.sberbank.ru	*.emm.sberbank.ru	emm.sberbank.ru	idm.emm.sberbank.ru	access-mac.emm.sberbank.ru	access.emm.sberbank.ru	cab-vsp-awim001.sigma.sbrf.ru	cab-vsp-awim002.sigma.sbrf.ru	cab-vsp-awim003.sigma.sbrf.ru	cab-vsp-awim004.sigma.sbrf.ru	cab-vsp-awim005.sigma.sbrf.ru	cab-vsp-awim006.sigma.sbrf.ru	cab-vsp-awim007.sigma.sbrf.ru	cab-vsp-woaap01.sigma.sbrf.ru	cab-vsp-woaap02.sigma.sbrf.ru	cab-vsp-woaap03.sigma.sbrf.ru	cab-vsp-woaap04.sigma.sbrf.ru	cab-vsp-woaap05.sigma.sbrf.ru	cab-vsp-woaap06.sigma.sbrf.ru	cab-vsp-woaap07.sigma.sbrf.ru	cab-vsp-woaap08.sigma.sbrf.ru	cab-vsp-woaap09.sigma.sbrf.ru	cab-vsp-woaap10.sigma.sbrf.ru	cab-vsp-woaap31.sigma.sbrf.ru	cab-vsp-woaap32.sigma.sbrf.ru	cab-vsp-woaap33.sigma.sbrf.ru	
+1119260	VTB Bank (PJSC)	RU	2022-03-31T11:55:27Z	2023-03-31T11:55:27Z	new-lk-developer.vtb.ru	new-lk-developer.vtb.ru	www.new-lk-developer.vtb.ru																								
+1119280	Public Joint-Stock Company Sberbank of Russia	RU	2022-04-01T09:43:08Z	2023-04-01T09:43:08Z	*.encashment.sberbank.ru	ift.web.encashment.sberbank.ru	ift.ios.encashment.sberbank.ru	ift.android.encashment.sberbank.ru	ift.encashment.sberbank.ru	ift.mobincash.sberbank.ru	uat.ios.encashment.sberbank.ru	uat.android.encashment.sberbank.ru	uat.web.encashment.sberbank.ru																		
+1119290	ГБУ РК ЦЗКО	RU	2022-04-01T11:04:47Z	2023-04-01T11:04:47Z	*.czko.ru	czko.ru	www.czko.ru																								
+1119291	State budgetary educational institution secondary school No. 490	RU	2022-04-04T09:09:04Z	2023-04-04T09:09:04Z	*.sc490-spb.ru	sc490-spb.ru	www.sc490-spb.ru	*.sc490-spb.ru																							
+1119293	The Ministry of digital development of Kaluga region	RU	2022-04-04T09:11:05Z	2023-04-04T09:11:05Z	expe1.admoblkaluga.ru	expe1.admoblkaluga.ru	join.admoblkaluga.ru	collab-edge.admoblkaluga.ru																							
+1119299	Акционерное общество Комиавиатранс	RU	2022-04-04T09:19:05Z	2023-04-04T09:19:05Z	*.komiaviatrans.ru	komiaviatrans.ru	www.komiaviatrans.ru	*.komiaviatrans.ru																							
+1119328	Corporation “Aviashelf Aviation Company”	Ru	2022-04-04T11:29:36Z	2023-04-04T11:29:36Z	*.aviashelf.ru	*.aviashelf.ru	aviashelf.ru																								
+1119330	Bank Severny Morskoy Put JSC	RU	2022-04-04T16:32:07Z	2023-04-04T16:32:07Z	cert-test.smpbank.ru	cert-test.smpbank.ru																									
+1119331	Администрация города Мичуринска Тамбовской области	RU	2022-04-04T16:33:28Z	2023-04-04T16:33:28Z	*.g45.tambov.gov.ru	g45.tambov.gov.ru	www.g45.tambov.gov.ru	*.g45.tambov.gov.ru																							
+1119334	AO RK Centr-Invest	RU	2022-04-04T16:36:26Z	2023-04-04T16:36:26Z	*.centr-invest.ru	centr-invest.ru	www.centr-invest.ru	*.centr-invest.ru																							
+1119346	JS Company BIFIT	RU	2022-04-04T17:16:16Z	2023-04-04T17:16:16Z	demo.bifit.ru	demo.bifit.ru																									
+1119359	JSC Erkafarm	RU	2022-04-05T07:20:30Z	2023-04-05T07:20:30Z	*.erkapharm.su	*.erkapharm.su	erkapharm.su																								
+1119362	FBI Rehabilitation Center Tinaki	RU	2022-04-05T07:27:10Z	2023-04-05T07:27:10Z	*.tinaki.ru	tinaki.ru	*.tinaki.ru																								
+1119372	GKOU SPETsIALNAYa OBShchEOBRAZOVATELNAYa ShKOLA-INTERNAT 17	RU	2022-04-05T11:15:24Z	2023-04-05T11:15:24Z	*.svet17.ru	svet17.ru	www.svet17.ru	*.svet17.ru																							
+1119401	ГУ НИАЦ	RU	2022-04-05T11:54:16Z	2023-04-05T11:54:16Z	*.niac.ru	niac.ru	*.niac.ru																								
+1119424	VTB Bank (PJSC)	RU	2022-04-06T10:23:46Z	2023-04-06T10:23:46Z	ift-chat-sharing.vtb.ru	ift-chat-sharing.vtb.ru	ift-chat-turn.vtb.ru	psi-chat-turn.vtb.ru	hf-chat-turn.vtb.ru	psi-chat-sharing.vtb.ru	hf-chat-sharing.vtb.ru	www.ift-chat-sharing.vtb.ru	www.ift-chat-turn.vtb.ru	www.hf-chat-turn.vtb.ru	www.psi-chat-turn.vtb.ru	www.psi-chat-sharing.vtb.ru	www.hf-chat-sharing.vtb.ru														
+1119425	VTB Bank (PJSC)	RU	2022-04-06T10:23:51Z	2023-04-06T10:23:51Z	test-mobile2.broker.vtb.ru	test-mobile2.broker.vtb.ru	www.test-mobile2.broker.vtb.ru																								
+1119426	VTB Bank (PJSC)	RU	2022-04-06T10:23:55Z	2023-04-06T10:23:55Z	mobile2.broker.vtb.ru	mobile2.broker.vtb.ru	www.mobile2.broker.vtb.ru																								
+1119430	ЖСК КОЛХИДА	RU	2022-04-06T10:28:22Z	2023-04-06T10:28:22Z	data.22-1.ru	data.22-1.ru																									
+1119435	JSC AVANGARD-GARANT INSURANCE GROUP	RU	2022-04-06T10:35:05Z	2023-04-06T10:35:05Z	avangard-garant.ru	avangard-garant.ru	www.avangard-garant.ru																								
+1119490	Public Joint-Stock Company Sberbank of Russia	RU	2022-04-07T13:46:17Z	2023-04-07T13:46:17Z	psi-opros-sberbank-ru.sberbank.ru	psi-opros-sberbank-ru.sberbank.ru																									
+1119598	Government of the Chukotka Autonomous Okrug	RU	2022-04-08T08:10:27Z	2023-04-08T08:10:27Z	chukotka-gov.ru	chukotka-gov.ru	autodiscover.chukotka-gov.ru	mail.chukotka-gov.ru																							
+1119599	Cifra-Telecom Ltd.	RU	2022-04-08T08:13:10Z	2023-04-08T08:13:10Z	vpbx.binatel.org	vpbx.binatel.org	vpbxsip.binatel.org	vpbxsiptrunk.binatel.org	sipgw.binatel.org	sipgwauth.binatel.org	sipreg.binatel.org																				
+1119624	ГБУ РО ЦИОГД	RU	2022-04-11T10:28:56Z	2023-04-11T10:28:56Z	*.gisogdro.ru	gisogdro.ru	www.gisogdro.ru	*.gisogdro.ru																							
+1119640	Vzljot JSC	RU	2022-04-11T10:56:41Z	2023-04-11T10:56:41Z	*.vzljot.ru	vzljot.ru	*.vzljot.ru																								
+1119688	MAOU 'Gimnaziya N1'	RU	2022-04-12T14:26:26Z	2023-04-12T14:26:26Z	gimnazist1.ru	*.gimnazist1.ru																									
+1119692	joint stock company MOSCOVSKIY OBLASTNOI BANK	RU	2022-04-12T14:29:56Z	2023-04-12T14:29:56Z	ibank2tst.mosoblbank.ru	www.ibank2tst.mosoblbank.ru																									
+1119694	INSTITUTE OF PETROLEUM CHEMISTRY	RU	2022-04-12T14:32:10Z	2023-04-12T14:32:10Z	*.ipc.tsc.ru	moodle.ipc.tsc.ru	www.ipc.tsc.ru	oilmuseum.ipc.tsc.ru	mail.ipc.tsc.ru																						
+1119701	Ministry of Culture of the Belgorod Region	RU	2022-04-12T14:54:04Z	2023-04-12T14:54:04Z	*.belkult.ru	belkult.ru	www.belkult.ru	*.belkult.ru																							
+1119703	Cifra-Telecom Ltd.	RU	2022-04-12T14:55:47Z	2023-04-12T14:55:47Z	*.dtnetwork.ru	dtnetwork.ru																									
+1119805	ООО Сура АйБи	RU	2022-04-13T13:02:20Z	2023-04-13T13:02:20Z	*.sura-ib.ru	sura-ib.ru	www.sura-ib.ru	*.sura-ib.ru																							
+1119889	TECHNOTEL LLC	RU	2022-04-15T13:50:12Z	2023-04-15T13:50:12Z	*.t-tel.ru	t-tel.ru	www.t-tel.ru	*.t-tel.ru																							
+1119894	joint stock company MOSCOVSKIY OBLASTNOI BANK	RU	2022-04-15T13:57:28Z	2023-04-15T13:57:28Z	ibank2tst.mosoblbank.ru	ibank2tst.mosoblbank.ru																									
+1119904	ORES-Karelia OOO	RU	2022-04-15T14:14:13Z	2023-04-15T14:14:13Z	*.ores-karelia.ru	ores-karelia.ru	client.ores-karelia.ru	carrera10.ores-karelia.ru	www.ores-karelia.ru	www.client.ores-karelia.ru																					
+1119908	Public Joint-Stock Company Sberbank of Russia	RU	2022-04-15T14:19:05Z	2023-04-15T14:19:05Z	vps2ift.devicestest.sberbank.ru	vps2ift.devicestest.sberbank.ru	vps2psi.devicestest.sberbank.ru	vps2demo.devicestest.sberbank.ru																							
+1119913	Public Limited Company with Share Capital InfTech	RU	2022-04-18T14:22:35Z	2023-04-18T14:22:35Z	infteh.ru	infteh.ru	www.infteh.ru	*.web.infteh.ru																							
+1119934	Department of investment and enterprise development	RU	2022-04-18T16:05:41Z	2023-04-18T16:05:41Z	*.mbkuban.ru	mbkuban.ru	www.mbkuban.ru	*.mbkuban.ru																							
+1119944	Ltd Markstadt Plus	RU	2022-04-18T16:45:40Z	2023-04-18T16:45:40Z	*.markhotel.ru	markhotel.ru	www.markhotel.ru	*.markhotel.ru																							
+1119973	LLC RN-KrasnoyarskNIPIneft	RU	2022-04-19T12:35:55Z	2023-04-19T12:35:55Z	*.krasnipi.ru	krasnipi.ru	vdr.krasnipi.ru																								
